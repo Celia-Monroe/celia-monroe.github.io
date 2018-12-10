@@ -1,6 +1,6 @@
 ## 
 
-[Click here](https://github.com/Celia-Monroe/invincibility-celiamonroe) to download the ePub!
+[Click here](https://github.com/timlockridge/invincibility-celiamonroe/releases/download/v6.2/invincibility-v62.epub) to download the ePub!
 
 You can use the [editor on GitHub](https://github.com/Celia-Monroe/celia-monroe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
