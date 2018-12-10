@@ -1,8 +1,6 @@
-## INVINCIBILITY
+## 
 
-An eBook on disability and diversity, with notes on accessibility and publishing. 
-
-[Click here] to download the ePub!
+[Click here](https://github.com/Celia-Monroe/invincibility-celiamonroe) to download the ePub!
 
 You can use the [editor on GitHub](https://github.com/Celia-Monroe/celia-monroe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
